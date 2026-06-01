@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+.env
+*.pt
+*.bin
+*.safetensors
+/tmp/
+hf_cache/
+models/
+results/
+*.jsonl
